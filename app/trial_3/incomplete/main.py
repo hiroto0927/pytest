@@ -21,14 +21,3 @@ class User:
 
     def set_phone_num(self, phone):
         self.phone_num = phone
-
-
-user = User("John", 20)
-user.set_age(21)
-print(user.age)
-user.set_email("hogehoge.com")
-print(user.email)
-user.set_address("address")
-print(user.address)
-user.set_phone_num("123-4567-8901")
-print(user.phone_num)
