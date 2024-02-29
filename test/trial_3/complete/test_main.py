@@ -1,4 +1,4 @@
-from app.trial_3.main import User
+from app.trial_3.complete.main import User
 import pytest
 
 USER_NAME = "John"
