@@ -1,4 +1,4 @@
-from app.main import calc
+from app.trial_1.main import calc
 
 CALC_ANSWER = 3
 
