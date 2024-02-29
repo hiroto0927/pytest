@@ -4,7 +4,7 @@ class User:
         self.age = age
         self.email = None
         self.address = None
-        self.phone = None
+        self.phone_num = None
 
     def set_age(self, age):
         self.age = age
@@ -15,5 +15,5 @@ class User:
     def set_address(self, address):
         self.address = address
 
-    def set_phone(self, phone):
+    def set_phone_num(self, phone):
         self.phone = phone
